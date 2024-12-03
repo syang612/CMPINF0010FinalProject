@@ -7,4 +7,4 @@ Morgan Lee - mol62@pitt.edu | Sarah Yang - say108@pitt.edu | Dhanvi Kashyap - ds
 * Pittsburgh Median Age at Death: https://data.wprdc.org/dataset/median-age-death
 * Pittsburgh Crosswalks and Stop line locations: https://data.wprdc.org/dataset/allegheny-county-public-schools-local-education-agency-leas-locations 
 
-* We used WPRC datasets Arrest Data, Median Age at Death, and Public Schools/Local Education Agency Locations as sub-metrics to decide which neighborhood in Pittsburgh is the "Best".
+* We used WPRC datasets Arrest Data, Median Age at Death, and Crosswalk Locations as sub-metrics to decide which neighborhood in Pittsburgh is the "Best".
