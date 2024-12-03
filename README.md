@@ -1,5 +1,5 @@
 # Best Neighborhood in Pittsburgh
-Team name:  
+Team name:  Team 20
 ## Members
 Morgan Lee - mol62@pitt.edu | Sarah Yang - say108@pitt.edu | Dhanvi Kashyap - dsk67@pitt.edu
 ## Description and links to the datasets used
